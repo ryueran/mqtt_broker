@@ -1,0 +1,160 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "include/muduo/net/protorpc/libmuduo_protorpc.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"include/muduo/net/protorpc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g  "
+				},
+				{
+					"fragment" : "-Wno-error=shadow"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/.."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "muduo_base::@b7c0a0a4680a7103f4cc"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "muduo_net::@b981216e2fb33031b678"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "muduo_protobuf_codec::@5a30b015f8e8f41dc39d"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "muduo_protorpc_wire::@f384a4c9a401d067d300"
+		}
+	],
+	"id" : "muduo_protorpc::@f384a4c9a401d067d300",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"name" : "muduo_protorpc",
+	"nameOnDisk" : "libmuduo_protorpc.a",
+	"paths" : 
+	{
+		"build" : "include/muduo/net/protorpc",
+		"source" : "include/muduo/net/protorpc"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "include/muduo/net/protorpc/RpcChannel.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "include/muduo/net/protorpc/RpcServer.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

@@ -1,0 +1,1 @@
+/bin/c++  -g  -rdynamic CMakeFiles/client.dir/src/client.cc.o  -o client  include/muduo/base/libmuduo_base.a include/muduo/net/libmuduo_net.a include/com_protocol/mqtt/libmqtt.a include/muduo/base/libmuduo_base.a -lpthread -lrt 

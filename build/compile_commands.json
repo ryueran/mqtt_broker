@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/src -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/CMAKE_SOURCE_DIR/include -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/client.dir/src/client.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/src/client.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/src/client.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/src -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/CMAKE_SOURCE_DIR/include -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/server.dir/src/server.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/src/server.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/src/server.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/AsyncLogging.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/AsyncLogging.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/AsyncLogging.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/Condition.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Condition.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Condition.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/CountDownLatch.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/CountDownLatch.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/CountDownLatch.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/CurrentThread.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/CurrentThread.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/CurrentThread.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/Date.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Date.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Date.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/Exception.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Exception.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Exception.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/FileUtil.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/FileUtil.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/FileUtil.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/LogFile.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/LogFile.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/LogFile.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/Logging.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Logging.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Logging.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/LogStream.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/LogStream.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/LogStream.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/ProcessInfo.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/ProcessInfo.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/ProcessInfo.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/Timestamp.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Timestamp.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Timestamp.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/Thread.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Thread.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/Thread.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/ThreadPool.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/ThreadPool.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/ThreadPool.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/base",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_base.dir/TimeZone.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/TimeZone.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/TimeZone.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Acceptor.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Acceptor.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Acceptor.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Buffer.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Buffer.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Buffer.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Channel.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Channel.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Channel.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Connector.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Connector.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Connector.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/EventLoop.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/EventLoop.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/EventLoop.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/EventLoopThread.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/EventLoopThread.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/EventLoopThread.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/EventLoopThreadPool.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/EventLoopThreadPool.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/InetAddress.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/InetAddress.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/InetAddress.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Poller.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Poller.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Poller.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/poller/DefaultPoller.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/poller/DefaultPoller.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/poller/DefaultPoller.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/poller/EPollPoller.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/poller/EPollPoller.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/poller/EPollPoller.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/poller/PollPoller.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/poller/PollPoller.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/poller/PollPoller.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Socket.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Socket.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Socket.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/SocketsOps.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/SocketsOps.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/SocketsOps.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/TcpClient.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TcpClient.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TcpClient.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/TcpConnection.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TcpConnection.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TcpConnection.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/TcpServer.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TcpServer.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TcpServer.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/Timer.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Timer.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/Timer.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_net.dir/TimerQueue.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TimerQueue.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/TimerQueue.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/http",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_http.dir/HttpServer.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/http/HttpServer.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/http/HttpServer.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/http",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_http.dir/HttpResponse.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/http/HttpResponse.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/http/HttpResponse.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/http",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_http.dir/HttpContext.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/http/HttpContext.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/http/HttpContext.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/inspect",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_inspect.dir/Inspector.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/Inspector.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/Inspector.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/inspect",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_inspect.dir/PerformanceInspector.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/PerformanceInspector.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/PerformanceInspector.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/inspect",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_inspect.dir/ProcessInspector.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/ProcessInspector.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/ProcessInspector.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/inspect",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -std=gnu++14 -o CMakeFiles/muduo_inspect.dir/SystemInspector.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/SystemInspector.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/inspect/SystemInspector.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protobuf",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -Wno-error=shadow -std=gnu++14 -o CMakeFiles/muduo_protobuf_codec.dir/ProtobufCodecLite.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protobuf/ProtobufCodecLite.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protobuf/ProtobufCodecLite.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protorpc",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -Wno-error=shadow -std=gnu++14 -o CMakeFiles/muduo_protorpc.dir/RpcChannel.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protorpc/RpcChannel.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protorpc/RpcChannel.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protorpc",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/base/../.. -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/..  -g   -Wno-error=shadow -std=gnu++14 -o CMakeFiles/muduo_protorpc.dir/RpcServer.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protorpc/RpcServer.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protorpc/RpcServer.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protorpc",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build  -g   -Wno-error=shadow -std=gnu++14 -Wno-conversion -o CMakeFiles/muduo_protorpc_wire.dir/rpc.pb.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protorpc/rpc.pb.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protorpc/rpc.pb.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/muduo/net/protorpc",
+  "command": "/bin/c++   -I/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build  -g   -Wno-error=shadow -std=gnu++14 -o CMakeFiles/muduo_protorpc_wire.dir/RpcCodec.cc.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protorpc/RpcCodec.cc",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/muduo/net/protorpc/RpcCodec.cc"
+},
+{
+  "directory": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build/include/com_protocol/mqtt",
+  "command": "/bin/c++    -g   -std=gnu++14 -o CMakeFiles/mqtt.dir/mqtt_protocol.cpp.o -c /home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/mqtt_protocol.cpp",
+  "file": "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/mqtt_protocol.cpp"
+}
+]

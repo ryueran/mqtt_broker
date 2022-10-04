@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/mqtt_protocol.cpp
+mqtt_protocol.h
+/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/mqtt_protocol.h
+string.h
+-
+math.h
+-
+
+/home/me_and_my_guitar/Documents/mqtt_server_broker/server/include/com_protocol/mqtt/mqtt_protocol.h
+string
+-
+string.h
+-
+iostream
+-
+unistd.h
+-
+

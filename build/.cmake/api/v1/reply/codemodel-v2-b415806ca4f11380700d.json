@@ -1,0 +1,259 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						7
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						9
+					]
+				},
+				{
+					"build" : "include/muduo/base",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include/muduo/base",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "include/muduo/net",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include/muduo/net",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "include/muduo/net/http",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "include/muduo/net/http",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "include/muduo/net/inspect",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "include/muduo/net/inspect",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "include/muduo/net/protobuf",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "include/muduo/net/protobuf",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "include/muduo/net/protorpc",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "include/muduo/net/protorpc",
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"build" : "include/com_protocol/mqtt",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include/com_protocol/mqtt",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "ssl_server",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client-Debug-9aaee9d6d9a6a01ed7d1.json",
+					"name" : "client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "mqtt::@1d486e411e78758732d2",
+					"jsonFile" : "target-mqtt-Debug-2ddd08773dde5b8b7d74.json",
+					"name" : "mqtt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "muduo_base::@b7c0a0a4680a7103f4cc",
+					"jsonFile" : "target-muduo_base-Debug-e6f9d7f12fe48eb67b3b.json",
+					"name" : "muduo_base",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "muduo_http::@7c5521516d5bcf675f79",
+					"jsonFile" : "target-muduo_http-Debug-21d86de4af16dcee0d2c.json",
+					"name" : "muduo_http",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "muduo_inspect::@aec5ccca41472ce23091",
+					"jsonFile" : "target-muduo_inspect-Debug-2b59c880816ec0df5a76.json",
+					"name" : "muduo_inspect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "muduo_net::@b981216e2fb33031b678",
+					"jsonFile" : "target-muduo_net-Debug-51b5abf1358b00aff55c.json",
+					"name" : "muduo_net",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "muduo_protobuf_codec::@5a30b015f8e8f41dc39d",
+					"jsonFile" : "target-muduo_protobuf_codec-Debug-bb524448849197b9ff25.json",
+					"name" : "muduo_protobuf_codec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "muduo_protorpc::@f384a4c9a401d067d300",
+					"jsonFile" : "target-muduo_protorpc-Debug-ac7a894dd11ecd7c37d6.json",
+					"name" : "muduo_protorpc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "muduo_protorpc_wire::@f384a4c9a401d067d300",
+					"jsonFile" : "target-muduo_protorpc_wire-Debug-cd24bf7194ff232351c1.json",
+					"name" : "muduo_protorpc_wire",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server-Debug-9d4969b18740c011e60c.json",
+					"name" : "server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/me_and_my_guitar/Documents/mqtt_server_broker/server/build",
+		"source" : "/home/me_and_my_guitar/Documents/mqtt_server_broker/server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
